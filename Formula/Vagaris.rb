@@ -6,7 +6,7 @@
 
 class Vagaris < Formula
   desc "Vagaris CLI — orchestrate AI agent teams to run a business"
-  homepage "https://github.com/Cramraika/vagris"
+  homepage "https://vagaris.org"
   url "https://registry.npmjs.org/@vagarylabs/vagaris/-/vagaris-0.3.2.tgz"
   sha256 "d76bd4e64457f607a4728fe58a04cc4efb7440ac8b32ee20c386ca24d8e604b2"
   version "0.3.2"
